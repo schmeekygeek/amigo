@@ -1,8 +1,8 @@
 package main
 
 import (
-	"amigo/repl"
-	"os"
+  "amigo/repl"
+  "os"
 )
 
 func main() {
